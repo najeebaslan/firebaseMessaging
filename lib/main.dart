@@ -90,10 +90,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: "مواعيد الحبس الاحتياطي",
-      // theme: FuAppTheme.getThemeFromThemeMode(),
-      // home: MessageView(args: null,),
-      //const CheckAuth(),
+      title: "Flutter FireBase Notification",
+   
       routes: {
         '/': (context) =>
             //const FingerPrint(),
@@ -105,7 +103,8 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+//git add .
 //git commit -m "first commit"
-
-
+//git push -u origin master
+//
 
