@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "945228073882",
+    "project_id": "fir-messages-69d93",
+    "storage_bucket": "fir-messages-69d93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945228073882:android:39ee2617d2a8797fdb4823",
+        "android_client_info": {
+          "package_name": "com.example.firebase_massage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945228073882-60559640gt8sp4liinknv6abfih10b79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_massage",
+            "certificate_hash": "6f503d1e5225f2134e97736a40dccae05826bed5"
+          }
+        },
+        {
+          "client_id": "945228073882-olsbbvqk2rtbciuuaj3uqihn5vp7hup8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE0r85fKWNw3RdoFfJYLSEmVXfUFljylY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945228073882-olsbbvqk2rtbciuuaj3uqihn5vp7hup8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
